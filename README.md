@@ -106,13 +106,18 @@ will be updated after the relevant tests are performed.
 
 No pass or fail results are claimed before execution.
 
-## 10. Project Documents
 
-- [Test Plan](test-plan/Test_Plan.md)
-- [Test Cases](test-cases/Test_Cases.csv)
-- [Test Execution Report](test-execution/Test_Execution_Report.md)
-- [Defect Reports](bug-reports/Defect_Reports.md)
-- [Test Summary Report](test-summary/Test_Summary_Report.md)
+## Test Documentation
+
+### Test Plan
+- [OpenCart Test Plan](test-plan/Test_Plan.md)
+
+### Test Scenarios
+- [OpenCart Test Scenarios](test-documents/OpenCart-TestSenario.xlsx)
+
+### Test Cases
+- [Registration and Login Test Cases](test-documents/OpenCart_Registration_Login_Test_Cases.xlsx)
+
 
 ## 11. Author
 
