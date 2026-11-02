@@ -109,14 +109,22 @@ No pass or fail results are claimed before execution.
 
 ## Test Documentation
 
-### Test Plan
-- [OpenCart Test Plan](test-plan/Test_Plan.md)
+This section contains the test scenarios and test cases prepared for the OpenCart demo application.
 
-### Test Scenarios
-- [OpenCart Test Scenarios](test-documents/OpenCart-TestSenario.xlsx)
+### 1. Test Plan
+- [Test Plan](test-plan/Test_Plan.md)
 
-### Test Cases
-- [Registration and Login Test Cases](test-documents/OpenCart_Registration_Login_Test_Cases.xlsx)
+### 2. Test Execution Report
+- [Login Test Cases](Test-execution-Report/OpenCart_Login_Test_Cases.xlsx)
+- [Registration Test Cases](Test-execution-Report/OpenCart_Registration_Test_Cases.xlsx)
+
+### 3. Test Documents
+- [Test Scenarios](test-documents/OpenCart-TestSenario.xlsx)
+- [Login Test Cases](test-documents/OpenCart_Login_Test_Cases.xlsx)
+- [Registration Test Cases](test-documents/OpenCart_Registration_Test_Cases.xlsx)
+
+### 4. Defect Reports
+- [OpenCart Bug Report](defect-reports/OpenCart_Bugs.xlsx)
 
 
 ## 11. Author
